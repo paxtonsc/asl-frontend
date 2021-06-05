@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asl-frontend/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/asl-frontend/static/js/main.701403f2.chunk.js",
+    "main.js.map": "/asl-frontend/static/js/main.701403f2.chunk.js.map",
+    "runtime-main.js": "/asl-frontend/static/js/runtime-main.95bfbf84.js",
+    "runtime-main.js.map": "/asl-frontend/static/js/runtime-main.95bfbf84.js.map",
+    "static/js/2.6ccc18a3.chunk.js": "/asl-frontend/static/js/2.6ccc18a3.chunk.js",
+    "static/js/2.6ccc18a3.chunk.js.map": "/asl-frontend/static/js/2.6ccc18a3.chunk.js.map",
+    "static/js/3.cf2f9080.chunk.js": "/asl-frontend/static/js/3.cf2f9080.chunk.js",
+    "static/js/3.cf2f9080.chunk.js.map": "/asl-frontend/static/js/3.cf2f9080.chunk.js.map",
+    "index.html": "/asl-frontend/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/asl-frontend/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6ccc18a3.chunk.js.LICENSE.txt": "/asl-frontend/static/js/2.6ccc18a3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/asl-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95bfbf84.js",
+    "static/js/2.6ccc18a3.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.701403f2.chunk.js"
+  ]
+}
