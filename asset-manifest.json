@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/asl-frontend/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/asl-frontend/static/js/main.701403f2.chunk.js",
-    "main.js.map": "/asl-frontend/static/js/main.701403f2.chunk.js.map",
+    "main.js": "/asl-frontend/static/js/main.49d6b3b7.chunk.js",
+    "main.js.map": "/asl-frontend/static/js/main.49d6b3b7.chunk.js.map",
     "runtime-main.js": "/asl-frontend/static/js/runtime-main.95bfbf84.js",
     "runtime-main.js.map": "/asl-frontend/static/js/runtime-main.95bfbf84.js.map",
     "static/js/2.6ccc18a3.chunk.js": "/asl-frontend/static/js/2.6ccc18a3.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.95bfbf84.js",
     "static/js/2.6ccc18a3.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.701403f2.chunk.js"
+    "static/js/main.49d6b3b7.chunk.js"
   ]
 }
