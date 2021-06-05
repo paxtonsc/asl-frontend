@@ -6,7 +6,7 @@ import {Paper, Typography, Grid} from '@material-ui/core'
 import { makeStyles } from '@material-ui/core/styles';
 import {useState, useEffect} from 'react';
 
-const BACKEND = 'http://9063a2699207.ngrok.io';
+const BACKEND = 'http://44c31c8f057b.ngrok.io';
 
 const useStyles = makeStyles({
   root: {
